@@ -30,7 +30,7 @@ Open the index.html file in your browser.
 Use the calculator's buttons to input numbers and perform operations.
 Results will be displayed immediately after pressing the "=" button.
 Press "C" to clear the current input.
-![Calculator Screenshot](Gallery/Calculator.png)
+
 
 
    
